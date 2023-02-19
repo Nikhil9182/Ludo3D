@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "120395606173",
+    "project_id": "ludo3d-ed274",
+    "storage_bucket": "ludo3d-ed274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120395606173:android:88c1f483626279a0430c74",
+        "android_client_info": {
+          "package_name": "com.aim2excel.LudoPride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120395606173-tonlpgf8sin5sco7dl6jnk2m7r1ej263.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aim2excel.LudoPride",
+            "certificate_hash": "bf65ef8dac09e9fd7fef93b4d8e4000bef79bb12"
+          }
+        },
+        {
+          "client_id": "120395606173-2tkseklas4ken3crmo0hhcq9f6kg77nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBChIb_Gctcc7h3y9LhVNzXS4Cjf5hJSRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120395606173-2tkseklas4ken3crmo0hhcq9f6kg77nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
